@@ -1,0 +1,30 @@
+Student-1
+
+
+{
+  _id: ObjectId('6a664ae90451638db1e06030'),
+  name: 'Zein',
+  age: NumberInt('23'),
+  emanil: 'zein@gmail.com',
+  dob: Double('50.05'),
+  pob: 'mugadisho',
+  phone: Double('252613001122'),
+  address: [
+    {
+      country: 'ireland',
+      city: 'Doblin',
+      vilage: 'Casabalanca',
+      streat: 'kingslayWay',
+      home: NumberInt('7739406')
+    }
+  ],
+  hobby: [
+    'Reading Novels',
+    'watching Football',
+    'Driving Cars',
+    'Vibe Coding',
+    'Swimming'
+  ],
+  careerPath: 'Software Engineering',
+  id: NumberInt('1')
+}

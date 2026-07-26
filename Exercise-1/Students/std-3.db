@@ -1,0 +1,28 @@
+student-3
+
+{
+  _id: ObjectId('6a664e000451638db1e06032'),
+  name: 'mursal',
+  age: NumberInt('20'),
+  emanil: 'mursal@gmail.com',
+  id: NumberInt('3'),
+  dob: NumberInt('2005'),
+  pob: 'Hargeisa',
+  phone: Double('25261901468'),
+  address: [
+    {
+      country: 'England',
+      city: 'London',
+      vilage: 'chelsea',
+      streat: 'AC',
+      home: NumberInt('97363173')
+    }
+  ],
+  hobby: [
+    'watching Football',
+    'Driving Cars',
+    'Sleeping',
+    'Gaming'
+  ],
+  careerPath: 'House Builder'
+}

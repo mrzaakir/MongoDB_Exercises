@@ -1,0 +1,30 @@
+Student-2
+
+
+{
+  _id: ObjectId('6a664d190451638db1e06031'),
+  name: 'mahir',
+  age: NumberInt('19'),
+  emanil: 'mahir@gmail.com',
+  dob: NumberInt('2006'),
+  pob: 'xamar',
+  phone: Double('252613018362'),
+  address: [
+    {
+      country: 'England',
+      city: 'Anfield',
+      vilage: 'Anfield',
+      streat: 'AR',
+      home: NumberInt('78631046')
+    }
+  ],
+  hobby: [
+    'Reading Novels',
+    'watching Football',
+    'Driving Cars',
+    'Vibe Coding',
+    'Gaming'
+  ],
+  careerPath: 'Social Engineering',
+  id: NumberInt('2')
+}
