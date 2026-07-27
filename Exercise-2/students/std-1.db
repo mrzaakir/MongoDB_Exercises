@@ -1,0 +1,25 @@
+{
+  _id: ObjectId('6a677bd2518ff60ece824794'),
+  name: 'Ali Osman',
+  age: NumberInt('19'),
+  id: NumberInt('101'),
+  pob: 'Muqdisho',
+  email: 'aliosman@hormuuduniversity.edu.so',
+  dob: NumberInt('2007'),
+  address: [
+    {
+      country: 'Somalia',
+      city: 'Muqdisho',
+      deg: 'Xamar-Jajab',
+      xfd: 'Anzalooti',
+      guriNum: NumberInt('8631'),
+      phone: NumberInt('617839801')
+    }
+  ],
+  courses: [
+    'Nodejs',
+    'Nextjs',
+    'Tailwind',
+    'Python'
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  _id: ObjectId('6a677c76518ff60ece824795'),
+  name: 'Mohamed Ibrahim',
+  age: NumberInt('21'),
+  id: NumberInt('102'),
+  pob: 'Muqdisho',
+  email: 'moibra@jamhuriauniversity.edu.so',
+  dob: NumberInt('2005'),
+  address: [
+    {
+      country: 'Somalia',
+      city: 'Muqdisho',
+      deg: 'Xamar-weyne',
+      xfd: 'Via-Rooma',
+      guriNum: NumberInt('863'),
+      phone: NumberInt('617759011')
+    }
+  ],
+  courses: [
+    'React',
+    'Nodejs',
+    'Tailwind',
+    'Python'
+  ]
+}

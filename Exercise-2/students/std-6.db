@@ -1,0 +1,29 @@
+{
+  _id: ObjectId('6a677fe6518ff60ece824799'),
+  name: 'Zakaria kalid',
+  age: NumberInt('23'),
+  id: NumberInt('106'),
+  pob: 'Muqdisho',
+  email: 'zakariakalid@jazeerauniversity.edu.so',
+  dob: NumberInt('2003'),
+  address: [
+    {
+      country: 'Somalia',
+      city: 'Muqdisho',
+      deg: 'Xamar-Jajab',
+      xfd: 'Bar-Hai-Dhafin',
+      guriNum: NumberInt('94109'),
+      phone: NumberInt('682879751')
+    }
+  ],
+  courses: [
+    'React',
+    'Tailwind',
+    'Java',
+    'Python',
+    'JS',
+    'TypeScript'
+  ],
+  degree: 'Master Holder Of ICT',
+  career: 'SOftwere ENgineering'
+}

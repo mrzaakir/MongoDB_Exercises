@@ -1,0 +1,24 @@
+{
+  _id: ObjectId('6a677d3f518ff60ece824796'),
+  name: 'Fadma Ali',
+  age: NumberInt('20'),
+  id: NumberInt('103'),
+  pob: 'Muqdisho',
+  email: 'fadmaali@jazeerauniversity.edu.so',
+  dob: NumberInt('2006'),
+  address: [
+    {
+      country: 'Somalia',
+      city: 'Muqdisho',
+      deg: 'Howlwadag',
+      xfd: 'Shanta-Geed',
+      guriNum: NumberInt('8092'),
+      phone: NumberInt('610751294')
+    }
+  ],
+  courses: [
+    'JS',
+    'Nodejs',
+    'Tailwind'
+  ]
+}

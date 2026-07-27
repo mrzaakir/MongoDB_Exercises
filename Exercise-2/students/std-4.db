@@ -1,0 +1,23 @@
+{
+  _id: ObjectId('6a677dcc518ff60ece824797'),
+  name: 'Siham Xasan',
+  age: NumberInt('22'),
+  id: NumberInt('104'),
+  pob: 'Muqdisho',
+  email: 'sihamxasan@jazeerauniversity.edu.so',
+  dob: NumberInt('2004'),
+  address: [
+    {
+      country: 'Somalia',
+      city: 'Muqdisho',
+      deg: 'madiino',
+      xfd: 'Kawo-Godey',
+      guriNum: NumberInt('5371'),
+      phone: NumberInt('613708924')
+    }
+  ],
+  courses: [
+    'React',
+    'Tailwind'
+  ]
+}

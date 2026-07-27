@@ -1,0 +1,24 @@
+{
+  _id: ObjectId('6a677ecc518ff60ece824798'),
+  name: 'Miski Ali',
+  age: NumberInt('23'),
+  id: NumberInt('105'),
+  pob: 'Muqdisho',
+  email: 'miskiali@jazeerauniversity.edu.so',
+  dob: NumberInt('2003'),
+  address: [
+    {
+      country: 'Somalia',
+      city: 'Muqdisho',
+      deg: 'Hodan',
+      xfd: 'SonaKey',
+      guriNum: NumberInt('53021'),
+      phone: NumberInt('103445993')
+    }
+  ],
+  courses: [
+    'React',
+    'Tailwind',
+    'Java'
+  ]
+}
