@@ -1,0 +1,16 @@
+{
+  _id: ObjectId('6a6a25bdf3333c6129c4c4e3'),
+  name: 'Aicha',
+  email: 'Aicha@gmail.com',
+  points: NumberInt('81'),
+  courses: [
+    'React',
+    'Tailwind',
+    'Py',
+    'JS',
+    'C#',
+    'MongDB',
+    'CodeEditer',
+    'PHP'
+  ]
+}
