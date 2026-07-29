@@ -1,0 +1,15 @@
+{
+  _id: ObjectId('6a6a260ff3333c6129c4c4e4'),
+  name: 'Osama',
+  email: 'osama@gmail.com',
+  points: NumberInt('99'),
+  courses: [
+    'React',
+    'Tailwind',
+    'JS',
+    'C#',
+    'SQL',
+    'C',
+    'Java'
+  ]
+}
